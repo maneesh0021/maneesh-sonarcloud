@@ -1,0 +1,16 @@
+.card {
+  max-width: 470vw;
+  max-height: 50%;
+  margin: 0 auto;
+  padding: 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+}
